@@ -1,0 +1,40 @@
+{
+  "name": "solitude-theme",
+  "displayName": "Solitude",
+  "description": "Dark",
+  "version": "0.0.1",
+  "publisher": "403forbidden",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mario-garcia-dev/solitude-theme"
+  },
+  "author": {
+    "name": "mario-garcia-dev",
+    "username": "403_forbidden",
+    "github": "https://github.com/mario-garcia-dev"
+  },
+  "icon": "",
+  "engines": {
+    "vscode": "^1.47.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Solitude Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solitude-dark-theme-color-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "solitude",
+    "deep",
+    "lonely",
+    "blue",
+    "dark"
+  ],
+  "license": "MIT"
+}
