@@ -26,6 +26,11 @@
         "label": "Solitude Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/solitude-dark-theme-color-theme.json"
+      },
+      {
+        "label": "Solitude Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solitude-soft-theme-color-theme.json"
       }
     ]
   },
@@ -34,7 +39,8 @@
     "deep",
     "lonely",
     "blue",
-    "dark"
+    "dark",
+    "soft"
   ],
   "license": "MIT"
 }
