@@ -397,8 +397,8 @@
 		"editor.selectionBackground": "#6DE3D928",
 		"editor.inactiveSelectionBackground": "#6DE3D915",
 		"editorWhitespace.foreground": "#6DE3D928",
-		"editor.selectionHighlightBackground": "#6DE3D915", // ?
-		"editor.selectionHighlightBorder": "#6DE3D915", // ?
+		"editor.selectionHighlightBackground": "#6DE3D915",
+		"editor.selectionHighlightBorder": "#6DE3D915",
 		"editor.findMatchBackground": "#040310",
 		"editor.findMatchBorder": "#408882",
 		"editor.findMatchHighlightBackground": "#6DE3D928",
