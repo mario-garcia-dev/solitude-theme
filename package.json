@@ -1,8 +1,8 @@
 {
   "name": "solitude-theme",
-  "displayName": "Solitude",
-  "description": "Dark",
-  "version": "0.0.1",
+  "displayName": "Solitude Theme",
+  "description": "the world is a lonely place...",
+  "version": "1.0.0",
   "publisher": "403forbidden",
   "repository": {
     "type": "git",
@@ -13,7 +13,7 @@
     "username": "403_forbidden",
     "github": "https://github.com/mario-garcia-dev"
   },
-  "icon": "",
+  "icon": "assets/solitude-icon.jpg",
   "engines": {
     "vscode": "^1.47.0"
   },
@@ -23,12 +23,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Solitude Dark",
+        "label": "Solitude Theme (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/solitude-dark-theme-color-theme.json"
       },
       {
-        "label": "Solitude Soft",
+        "label": "Solitude Theme (Soft)",
         "uiTheme": "vs-dark",
         "path": "./themes/solitude-soft-theme-color-theme.json"
       }
